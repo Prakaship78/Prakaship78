@@ -19,4 +19,4 @@ Flutter | Python
 
 <a href = https://www.linkedin.com/in/prakaship78><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/Prakaship78><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/Prakaship78><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakaship78&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakaship78&hide=javascript,c%2B%2B,c)](https://github.com/prakaship78/github-readme-stats)
