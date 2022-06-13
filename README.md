@@ -1,15 +1,15 @@
 # Hi there 👋 I'm Prakash Singh
 ### About me 🤓
-A tech enthusiast with passion to solve problems and to make things. Proven skills in Flutter and python programming,  I believe that I am a versatile learner and can get going with any sort of work.
+An Aeronautical Engineer by education and developer by profession.
 
-- 🔭 I’m currently working on Android app in Flutter
+- 🔭 I’m currently working on a Android/Ios app in Flutter.
 
-- ✍️ I am currently learning Flutter
+- ✍️ I am currently learning ReactJs
 
 
 ## My Skills include
 
-Flutter | Python 
+Flutter |
 
 ---
 
