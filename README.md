@@ -4,7 +4,7 @@ An Aeronautical Engineer by education and developer by profession.
 
 - 🔭 I’m currently working on a Android/Ios app in Flutter.
 
-- ✍️ I am currently learning ReactJs
+- ✍️ I am currently learning IOS Development
 
 
 ## My Skills include
